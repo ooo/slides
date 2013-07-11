@@ -1,0 +1,19 @@
+#surface h1, #surface h2, #surface h3, #surface h4 {
+    text-transform:none;
+}
+
+#surface #author {
+    padding-right: 153px;
+    text-align:right;
+}
+
+#surface #author h4 {
+    vertical-align:bottom;
+    margin-bottom: 5px;
+    margin-top: 35px;
+}
+
+#surface #author a {
+    text-decoration:underline;
+    font-size: 20pt;
+}
